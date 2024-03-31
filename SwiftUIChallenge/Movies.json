@@ -1,0 +1,82 @@
+[
+    {
+        "id": "5B52C56F-0C2D-47B2-A899-7853C1B3098A",
+        "title": "Movie 1",
+        "year": "2022",
+        "genre": "Action",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ullamcorper vestibulum neque sit amet ultricies. Integer tempor tristique ligula, eget fermentum turpis. Vivamus rutrum varius elit, ut faucibus purus ultricies vel. Curabitur consequat dolor eget justo tincidunt, quis dictum mi venenatis. Maecenas auctor felis quis ante fermentum, ac fringilla purus bibendum. Ut tincidunt felis vitae velit efficitur, eget tincidunt justo scelerisque. Nunc nec semper lacus. Nulla vitae ante auctor, condimentum elit eu, feugiat libero. Vivamus dapibus nibh at enim ultricies, in bibendum mauris tempor. Proin nec arcu rutrum, fermentum nunc at, iaculis purus. In egestas urna in tortor malesuada, at ultricies enim ultrices. Sed non pharetra eros. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Nullam rhoncus malesuada massa eget faucibus. Donec vehicula ex in sapien tempor, a efficitur ipsum fringilla. Fusce nec lectus velit. Quisque quis ante id lacus placerat pretium. Nullam vestibulum est eget arcu dignissim, nec gravida lorem vestibulum. Ut sit amet lorem quis nisi pellentesque convallis. Nullam pretium, ligula eu aliquet varius, felis lectus malesuada tortor, sed gravida orci neque vel libero. Curabitur nec orci in leo laoreet mattis. Ut tempus sollicitudin augue, nec luctus est faucibus quis. Curabitur nec risus nec sapien efficitur luctus sit amet at erat. Integer congue suscipit malesuada. Integer nec tristique odio. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed efficitur id odio et tincidunt. Donec ullamcorper turpis vitae odio iaculis, ut vehicula ipsum aliquet. Aenean at vestibulum leo, id bibendum orci. Nullam vitae congue libero, non ultricies orci. Sed posuere, lectus in tristique feugiat, tortor leo commodo ex, ac eleifend urna risus a augue.",
+        "thumbURL": "https://example.com/thumb1.jpg"
+    },
+    {
+        "id": "7F2E6334-7938-4BC6-B3F5-5CA80CBA43E2",
+        "title": "Movie 2",
+        "year": "2021",
+        "genre": "Comedy",
+        "description": "Description for Movie 2",
+        "thumbURL": "https://example.com/thumb2.jpg"
+    },
+    {
+        "id": "D828589E-0FBC-48CE-A1A4-8B4B9FEC12A4",
+        "title": "Movie 3",
+        "year": "2020",
+        "genre": "Drama",
+        "description": "Description for Movie 3",
+        "thumbURL": "https://example.com/thumb3.jpg"
+    },
+    {
+        "id": "DC799CE1-75E0-4D7C-8612-3A0D0D0FD02B",
+        "title": "Movie 4",
+        "year": "2019",
+        "genre": "Thriller",
+        "description": "Description for Movie 4",
+        "thumbURL": "https://example.com/thumb4.jpg"
+    },
+    {
+        "id": "A072C938-9D81-4762-BBC2-07B2B9B1A472",
+        "title": "Movie 5",
+        "year": "2018",
+        "genre": "Horror",
+        "description": "Description for Movie 5",
+        "thumbURL": "https://example.com/thumb5.jpg"
+    },
+    {
+        "id": "E83722AA-4C33-4A65-B16B-E4F3C31DE7AF",
+        "title": "Movie 6",
+        "year": "2017",
+        "genre": "Sci-Fi",
+        "description": "Description for Movie 6",
+        "thumbURL": "https://example.com/thumb6.jpg"
+    },
+    {
+        "id": "548B85C4-0E48-4F55-A8B2-2A0B8A53D5C3",
+        "title": "Movie 7",
+        "year": "2016",
+        "genre": "Fantasy",
+        "description": "Description for Movie 7",
+        "thumbURL": "https://example.com/thumb7.jpg"
+    },
+    {
+        "id": "C88D05A7-59CB-48A9-AF49-56B58A45B996",
+        "title": "Movie 8",
+        "year": "2015",
+        "genre": "Mystery",
+        "description": "Description for Movie 8",
+        "thumbURL": "https://example.com/thumb8.jpg"
+    },
+    {
+        "id": "6F381498-EC47-4DAA-B2A6-6EBF03A59DC5",
+        "title": "Movie 9",
+        "year": "2014",
+        "genre": "Adventure",
+        "description": "Description for Movie 9",
+        "thumbURL": "https://example.com/thumb9.jpg"
+    },
+    {
+        "id": "8F35655E-6828-4D8B-A98B-EEA3C1CA7F07",
+        "title": "Movie 10",
+        "year": "2013",
+        "genre": "Action",
+        "description": "Description for Movie 10",
+        "thumbURL": "https://example.com/thumb10.jpg"
+    }
+]
