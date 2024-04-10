@@ -11,13 +11,11 @@ struct MoviesListView: View {
     
     let movies: [Movie]
     
-    @Environment(MainCoordinator.self) private var coordinator: MainCoordinator<Movie>
+    @Environment(MainCoordinator.self) private var coordinator: MainCoordinator
     
     var body: some View {
         List(movies) { movie in
-            LazyVStack {
-                movieCell(movie)
-            }
+            movieCell(movie)
         }
         .navigationTitle("Movies")
     }
@@ -61,5 +59,5 @@ struct MoviesListView: View {
             thumbURL: "https://example.com/thumb1.jpg"
         )
     ])
-    .environment(MainCoordinator<Movie>())
+    .environment(MainCoordinator())
 }

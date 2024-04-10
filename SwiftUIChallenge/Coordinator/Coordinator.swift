@@ -9,21 +9,19 @@ import SwiftUI
 import Observation
 
 protocol Coordinator: AnyObject {
-    
-    associatedtype Item: Hashable
-    
+
     var path: NavigationPath { get }
     
-    func push(_ item: Item)
+    func push<Item: Hashable>(_ item: Item)
     func pop()
 }
 
 @Observable
-final class MainCoordinator<Item: Hashable>: Coordinator {
+final class MainCoordinator: Coordinator {
     
     var path = NavigationPath()
     
-    func push(_ item: Item) {
+    func push<Item: Hashable>(_ item: Item) {
         path.append(item)
     }
     

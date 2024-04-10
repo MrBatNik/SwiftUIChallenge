@@ -10,7 +10,7 @@ import Observation
 @Observable
 final class ViewModel {
     
-    var coordinator = MainCoordinator<Movie>()
+    var coordinator = MainCoordinator()
     var error: Error?
     
     private(set) var movies = [Movie]()

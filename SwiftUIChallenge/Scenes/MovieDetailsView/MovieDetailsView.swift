@@ -11,7 +11,7 @@ struct MovieDetailsView: View {
     
     let movie: Movie
     
-    @Environment(MainCoordinator.self) private var coordinator: MainCoordinator<Movie>
+    @Environment(MainCoordinator.self) private var coordinator: MainCoordinator
     
     var body: some View {
         ScrollView {
@@ -104,5 +104,5 @@ struct MovieDetailsView: View {
         description: "Description for Movie 1",
         thumbURL: "https://example.com/thumb1.jpg"
     ))
-    .environment(MainCoordinator<Movie>())
+    .environment(MainCoordinator())
 }
